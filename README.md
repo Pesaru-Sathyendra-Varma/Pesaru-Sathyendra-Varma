@@ -1,4 +1,8 @@
-# Hi there, I'm Sathyendra Varma Pesaru 👋
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Sathyendra+Varma;Java+Developer;Full-Stack+MERN+Developer;AWS+Cloud+Enthusiast;Building+Real-World+Solutions;Continuous+Learner+%26+Problem+Solver">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Sathyendra+Varma;Java+Developer;Full-Stack+MERN+Developer;AWS+Cloud+Enthusiast;Building+Real-World+Solutions;Continuous+Learner+%26+Problem+Solver" alt="Typing SVG" />
+  </a>
+</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sathyendra-varma-pesaru) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/SATHYA-MARIO) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pesarusatya123@gmail.com) 
 
@@ -114,3 +118,25 @@ A responsive user interface designed for building ATS-friendly resumes quickly a
 </p>
 
 ---
+
+### 🧊 3D Contribution Grid
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Pesaru-Sathyendra-Varma/Pesaru-Sathyendra-Varma/main/profile-3d-contrib/profile-season-animate.svg" alt="Sathyendra's 3D Contribution Grid" width="100%" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30" height="30" alt="Waving Hand" />
+</p>
+
+<h3 align="center">Thanks for stopping by!</h3>
+
+<p align="center">
+  <i>Building software, learning every day, and working on interesting projects.</i>
+</p>
+
+<p align="center">
+  🤝 <b>Feel free to explore my repositories or reach out!</b>
+</p>
