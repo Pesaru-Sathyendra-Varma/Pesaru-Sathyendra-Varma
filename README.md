@@ -4,7 +4,7 @@
   </a>
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sathyendra-varma-pesaru) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/SATHYA-MARIO) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pesarusatya123@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sathyendra-varma-pesaru/) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/SATHYA-MARIO) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](pesarusatya123@gmail.com) 
 
 ---
 
