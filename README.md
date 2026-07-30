@@ -104,7 +104,7 @@ A responsive user interface designed for building ATS-friendly resumes quickly a
 ### 📊 GitHub Stats:
 <p>
   <img src="https://github-readme-stats.shion.dev/api?username=Pesaru-Sathyendra-Varma&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/><br/>
-  <img src="https://streak-stats.demolab.com/?user=Pesaru-Sathyendra-Varma&theme=dark&hide_border=false"/><br/>
+  <img src="https://streak-stats.demolab.com?user=Pesaru-Sathyendra-Varma&theme=dark" alt="GitHub Streak" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Pesaru-Sathyendra-Varma&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </p>
 
